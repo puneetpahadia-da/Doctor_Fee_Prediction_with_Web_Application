@@ -1,4 +1,4 @@
-# Doctor-Fee-Prediction
+# Doctor_Fee_Prediction_with_Web_Application
 
 Predicting consultation fees of doctors based on various attributes using machine learning and an interactive web application.
 
