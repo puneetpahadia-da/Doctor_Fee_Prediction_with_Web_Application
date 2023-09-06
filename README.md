@@ -1,8 +1,22 @@
-# 🏥 Doctor Fee Prediction with Web Application 🚀
+##  <img src="https://media.tenor.com/Wq-8a2yGCSkAAAAi/stethoscope-stethoscope-images.gif" width="48" height="48"> Doctor Fee Prediction
 
-Predicting the consultation fees of doctors based on various attributes using machine learning and an interactive web application.
+
+This project aims to create a web interface that allows users to predict doctor consultation fees based on their input. The machine learning model was trained on a dataset obtained by scraping data from the Practo website using Selenium. With the use of Python Pandas, the scraped data was thoroughly cleaned & preprocessed for accurate predictions.
 
 ![Doctor Fee Prediction](https://github.com/puneetpahadia-da/Doctor_Fee_Prediction_with_Web_Application/assets/97096168/5e7f7967-5c38-48c2-9d73-4bea1d608131)
+
+##  <img src="https://user-images.githubusercontent.com/106439762/181935629-b3c47bd3-77fb-4431-a11c-ff8ba0942b63.gif" width="48" height="48"> **User's Manual**
+
+| Files/Folder| Description |
+| ------------- | ------------- |
+| **Data** | This folder provides scrapped data in csv format |
+| **Python Files** | This contains the .ipynb file of the analysis for Data Scraping, Data cleaning, EDA and ML Models.  |
+| **Web Application** | This contains the .HTML, app.py and model.pkl file for User Interface  |
+
+<br>
+
+<p align="center"><img src="https://i.pinimg.com/originals/13/66/c9/1366c95f8c249b8422d2caaae287cb63.gif" width="400" ></p>
+
 
 ## Overview 📋
 
