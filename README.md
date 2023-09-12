@@ -19,6 +19,9 @@ The main objective is to predict doctor consultation fees based on the following
 - `dp_score`: Doctor-patient experience score
 - `npv_`: Number of people's votes
 
+## Problem Statement
+The problem at hand is to develop a robust machine learning model and an interactive web application that can accurately predict doctor consultation fees based on various attributes. The goal is to create a tool that assists both patients and healthcare providers in estimating the consultation fees for medical professionals.
+
 ## Project Roadmap
 
 ![Screenshot 2023-08-09 233443](https://github.com/puneetpahadia-da/Doctor_Fee_Prediction_with_Web_Application/assets/97096168/05fb5914-dbef-4f08-bebc-eba1569c8192)
