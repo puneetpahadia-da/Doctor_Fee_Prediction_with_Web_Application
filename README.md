@@ -17,21 +17,26 @@ This project aims to create a web interface that allows users to predict doctor 
 
 <p align="center"><img src="https://i.pinimg.com/originals/13/66/c9/1366c95f8c249b8422d2caaae287cb63.gif" width="400" ></p>
 
+## Findings from the Doctor Fee Prediction Project 🧪
 
-## Overview 📋
+- According to the Practo dataset, Bangalore has the highest number of doctors.
 
-The **Doctor's Fee Prediction** project focuses on predicting consultation fees for doctors based on attributes such as specialty, experience, location, and more. The project involves data extraction, preprocessing, model building, and an interactive web application.
+  ![Screenshot 2023-08-09 233443](https://github.com/puneetpahadia-da/Doctor_Fee_Prediction_with_Web_Application/assets/97096168/2379a6b6-e0d2-44e9-8d4a-82b4d3c2584f)
 
-## Table of Contents 📑
+  
+- The most common degrees among doctors are MBBS, BDS, and BPTh/BPT, with the highest representation in the dataset.
 
-- [Project Details](#project-details)
-- [Data Extraction](#data-extraction)
-- [Data Preprocessing](#data-preprocessing)
-- [Machine Learning Modeling](#machine-learning-modeling)
-- [Web Application](#web-application)
-- [Presentation](#presentation)
-- [Usage](#usage)
-- [Acknowledgments](#acknowledgments)
+
+  ![Screenshot 2023-08-09 233626](https://github.com/puneetpahadia-da/Doctor_Fee_Prediction_with_Web_Application/assets/97096168/fd159758-6a33-47c6-b5b6-d60d659b582d)
+
+- The dataset indicates that the three most prominent specialties among doctors are:
+  - Dentist
+  - Gynaecologist
+  - Pediatrician
+
+![Screenshot 2023-08-09 233739](https://github.com/puneetpahadia-da/Doctor_Fee_Prediction_with_Web_Application/assets/97096168/0234c914-cf76-4da4-8556-b6362cab4710)
+
+ <br>
 
 ## Project Details 🚧
 
