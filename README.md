@@ -19,6 +19,30 @@ The main objective is to predict doctor consultation fees based on the following
 - `dp_score`: Doctor-patient experience score
 - `npv_`: Number of people's votes
 
+## Project Roadmap
+
+![Screenshot 2023-08-09 233443](https://github.com/puneetpahadia-da/Doctor_Fee_Prediction_with_Web_Application/assets/97096168/05fb5914-dbef-4f08-bebc-eba1569c8192)
+
+## Python Files 🐍
+
+### Data Extraction 🌐
+- The data extraction phase involves collecting raw doctor information from the online medical consultancy booking site Practo. This is achieved using the Jupyter Notebook `Scrapping code.ipynb`.
+
+### Data Preprocessing 🧹
+- In the preprocessing phase, data is cleaned, missing values are handled, and exploratory data analysis is performed. The Jupyter Notebook `Preprocessing_EDA.ipynb` includes the cleaning and visualization code.
+
+### Machine Learning Modeling 🤖
+- The machine learning model is built using Scikit-learn and is implemented in the Jupyter Notebook `ML_Models.ipynb`. This model predicts the consultation fee for doctors based on the provided attributes.
+
+## DATA 📊
+
+### Raw Data 📂
+- The collected data is stored in `raw_practo.csv`.
+
+### Cleaned Data 🧼
+- The cleaned data is saved in `clean_practo.csv`.
+
+
 ##  <img src="https://user-images.githubusercontent.com/106439762/181935629-b3c47bd3-77fb-4431-a11c-ff8ba0942b63.gif" width="48" height="48"> **User's Manual**
 
 | Files/Folder| Description |
@@ -51,26 +75,6 @@ The main objective is to predict doctor consultation fees based on the following
 ![Screenshot 2023-08-09 233739](https://github.com/puneetpahadia-da/Doctor_Fee_Prediction_with_Web_Application/assets/97096168/0234c914-cf76-4da4-8556-b6362cab4710)
 
  <br>
-
-
-## Python Files 🐍
-
-### Data Extraction 🌐
-- The data extraction phase involves collecting raw doctor information from the online medical consultancy booking site Practo. This is achieved using the Jupyter Notebook `Scrapping code.ipynb`.
-
-### Data Preprocessing 🧹
-- In the preprocessing phase, data is cleaned, missing values are handled, and exploratory data analysis is performed. The Jupyter Notebook `Preprocessing_EDA.ipynb` includes the cleaning and visualization code.
-
-### Machine Learning Modeling 🤖
-- The machine learning model is built using Scikit-learn and is implemented in the Jupyter Notebook `ML_Models.ipynb`. This model predicts the consultation fee for doctors based on the provided attributes.
-
-## DATA 📊
-
-### Raw Data 📂
-- The collected data is stored in `raw_practo.csv`.
-
-### Cleaned Data 🧼
-- The cleaned data is saved in `clean_practo.csv`.
 
 ## Web Application 💻
 
